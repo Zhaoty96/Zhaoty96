@@ -1,17 +1,9 @@
-[![Zhaoty96's github stats](https://github-readme-stats.vercel.app/api?username=Zhaoty96&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/Zhaoty96)
-
-
-<!--
-**Zhaoty96/Zhaoty96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<a href="https://github.com/Zhaoty96/Zhaoty96">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zhaoty96&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Zhaoty96%27s%20Github%20Stats" alt="Zhaoty's GitHub Stats" />
+</a>
+<br></br>
+<a href="https://github.com/Zhaoty96/Zhaoty96">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zhaoty96&theme=gruvbox&hide_border=true)](https://github.com/Zhaoty96" alt="Zhaoty96's GitHub Stats Graph"/>
+</a>
+</div>
